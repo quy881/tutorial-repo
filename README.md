@@ -13,3 +13,5 @@ guide than beginner's.
 I've completed the scripting tutorial but I wasn't able to replicate the exact same results for the backup script in sections 13, 16 and 17.3.
 
 I didn't utilize specific sources other than what google searches presented during error and concept checks.
+
+I sent my repo link to my peer on 10/32020 at 4:55 pm
