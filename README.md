@@ -15,3 +15,8 @@ I've completed the scripting tutorial but I wasn't able to replicate the exact s
 I didn't utilize specific sources other than what google searches presented during error and concept checks.
 
 I sent my repo link to my peer on 10/32020 at 4:55 pm
+
+Code Review Shadice Greenup
+- Reviewed code was coded correctly.
+- for loop range can be coded as {1..3} instead of 1 2 3.
+

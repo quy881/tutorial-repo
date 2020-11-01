@@ -1,3 +1,5 @@
+# Compare two numbers and print if one is less than or greater than the other using if else conditional statement.
+# Interesting feature: Commands inside of single square brackets are tested for true.
 #!/bin/bash
 
 num_a=400
